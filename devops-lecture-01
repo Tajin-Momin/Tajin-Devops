@@ -25,7 +25,17 @@ Ans -  The Devops lifecycle consists of several stages that span the entire soft
 
 
 Q . What is a service ?
-Ans : 
+Ans : In Devops, a service referce to a component or functionality provided by an application or system that delivers value to user or 
+other component within the software ecosystem .
+A service could be anything  from web application , a database , an API or MICRO SERVICE , Each service typically has its own database ,
+dependencies and infrastructure requirements.
+
+Q. What is Monolithic Architecture and Micro services?
+ANS : Monolithic Architecture is like a Big , single , all-in-one apllicaton where all different parts are tightly connected and run
+ together , kind of like a huge building with everything inside it.
+ MICRISERVICES , on the other hand , break down the application into smaller , independent services that can run separately.
+Each service handles a specific function or feature , like different shops in mall . They communicate with each other to get things done , 
+but they can also work on their own .
 
 
 
