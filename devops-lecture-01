@@ -1,0 +1,32 @@
+Q. What is Devops ?
+Ans - Devops is like bridge between software development and IT operations.
+  its all about making the process of building , testing nd deploying software faster , more reliable and more efficient
+  by fostering collaboration and automation between development and operation teams.
+
+Q. What is Devops Life Cycle ?
+Ans -  The Devops lifecycle consists of several stages that span the entire software development process , from planning and coding to deployement and monitoring
+    hence are the key stages 
+    1] plan : in this stage team define the goals , requirement and scope of the project. 
+        They also prioritize task and plan the development and deployement process .
+    2] Code : Developers write and review code according to project requirements. Version control systems like Git are often 
+         used to manage code changes and collabrotion among team members .
+    3] Build : The stage involves compiling , building and packaging the code into executable articraft. Automated build tools and continuous integration 
+        ( CI) pipeline help streamline the process and ensure that code changes are integrated and tested frequently.
+    4] Test : Quality Assurance (QA) engineers conduct various tests including unit test , integration test, and acceptance test, to verify 
+         that the software meets quality standards and functions as expected.
+    5] Deploy: Once the code passes all tests, it's deployed to production or staging environments.
+        Continuous Delivery ( CD) pipeline automate the deployment process, making it faster, more reliable, and less error-Prone.
+    6] Operate : in  ths stage , the software is monitored and maintained in production environments.
+           Operation team manage infrastructure, handle incident, and ensure the availability,performance and security of the application.
+    7] Monitor: Continuously gather data on the performance , usages and reliability of the software.
+        analyze monitoring metrics, and logs to identify trends, anomalies, and area for optimization.
+        Use monitoring tools like Prometheus, Grafana ,or ELK stack to visualize and analyze monitoring data 
+        collect feedback from users and stakeholders to inform future iteration and improvements 
+
+
+
+        
+
+
+        
+      
