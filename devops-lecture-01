@@ -39,8 +39,28 @@ but they can also work on their own .
 
 
 
-        
+16/05/2024
+** GIT ** 
+- IT is a Command line Tool ( Open Source )
+- In CI/CD the main Component is Git
+- Git is a Version Control System which is used to keep track and monitor changes made in our code 
+- it is also revert the changes to previous version 
+- It was created by linus Torvalds 
 
+Usases Of Git 
+- Manage Project With Repositories
+- Clone a project to work on local machines or copy
+- control and track changes with staging and commiting 
+- Branch and Merge to allow for work on different parts and Version of project 
+- Pull the latest Version of project to a local copy
+- Push local updates to the main project 
+
+
+
+** GITHUB **
+GITHUB is a Developer Platform that allows developers to Create, Store , Manage and share their code
+- it uses GIT software ,providing the Distributed Version Control of GIT 
+- It is Commonly used to Host open source software development project 
 
         
       
